@@ -1,1 +1,0 @@
-# Numpy learning notes -- Basic
